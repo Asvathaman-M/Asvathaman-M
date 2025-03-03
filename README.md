@@ -2,7 +2,6 @@
 - 👀 I’m interested in Ethical hacking, Programming
 - 🌱 I’m currently learning Python, java, Bigdata and linux commands 
 - 💞️ I’m looking to collaborate on anythings to program, I'll learn and give my best with my knowledge.
-- 🌟 I place my trust in individuals who demonstrate a genuine interest in their work 
 - 📫
 
 ### Connect with me:
